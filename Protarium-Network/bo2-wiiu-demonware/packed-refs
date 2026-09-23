@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+39497af9151713824b30d62d90a5a2ff18d37471 refs/heads/main
+9b62bbc630f840d2304b6a42776f3788ecbccfdb refs/heads/wiiu-bo2
+d82e23d49e562d17a591dc362bc47c3402206a12 refs/pull/1/head
+4f8d5ea8ff64ec04640b62d6cdb47cf38952783c refs/pull/2/head
+9b62bbc630f840d2304b6a42776f3788ecbccfdb refs/pull/4/head

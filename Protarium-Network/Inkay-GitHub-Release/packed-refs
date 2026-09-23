@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+e6719aea318c8fec0e0f00cb0bc872794ee442f3 refs/heads/main
+812fc22ee13c29c7b8faacfd66bffebdd3ffe91f refs/pull/2/head
+60b93b10c3aa2fa85f70bbcb41ebaa18a6f5a130 refs/pull/2/merge
+29cff8fba116322f619bac2e32252089bc1e38b9 refs/tags/v3.1.0-protarium-r10
+2584856e3f3b4e82cf593652a565d2f6b9ccec01 refs/tags/v3.1.0-protarium-sonic-r10-bo2

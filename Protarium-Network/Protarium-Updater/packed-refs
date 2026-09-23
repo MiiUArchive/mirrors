@@ -1,0 +1,24 @@
+# pack-refs with: peeled fully-peeled sorted 
+6fcc64ac0728eed2765ed740470cd6f8871d0fa0 refs/heads/Maschell-patch-1
+88c3181c35bee130ad5044aea3de1adc1b1670a8 refs/heads/dependabot/docker/wiiu-env/devkitppc-20240704
+9be5f01ca6b00a09fcaa5f6e46ca00a429539937 refs/heads/main
+7e84b9fa952a81afbbd05e9220aa671e736015f9 refs/tags/AromaUpdater-20230117-144851
+91f91852f7292ef9b4ab4af800694e18c4aed84a refs/tags/AromaUpdater-20230117-151038
+43dc79a5bf753935ed0f27e71f43defdd352f531 refs/tags/AromaUpdater-20230117-163557
+afcaeb32f6fc8247084df790429a00038e708809 refs/tags/AromaUpdater-20230118-210154
+e953af60c8dfc7e2a5b15aff4a8aad51d50ccbbd refs/tags/AromaUpdater-20230119-121533
+660514b1c01f35d967d311fff78b36ec64254f96 refs/tags/AromaUpdater-20230120-183128
+804fe518e40d29561fc1d4d20b522db06a8dfa13 refs/tags/AromaUpdater-20230126-162800
+ae6527e9d6fb40cee821e47f5147a9d76aa29868 refs/tags/AromaUpdater-20230126-193028
+80f09f6c3e068a67920114508ddbce3eca42474e refs/tags/AromaUpdater-20230316-150227
+c3bb7389a5ac15db8983d5fafcb036ddaa5fbad5 refs/tags/AromaUpdater-20230714-190705
+da5165d95c53156066cfece38c0666de2bfed4a0 refs/tags/AromaUpdater-20230719-184654
+0a09568244342e2d16acc613a8d262c15ee6964e refs/tags/AromaUpdater-20230723-083703
+3553ddac9b89076cb40fbace3ce969c489119bcf refs/tags/AromaUpdater-20240427-131227
+88aaba9854bb0ab8cabd4fb3dc78b37a8da4ccdf refs/tags/AromaUpdater-20240506-083123
+9be5f01ca6b00a09fcaa5f6e46ca00a429539937 refs/tags/AromaUpdater-20240506-130642
+91f91852f7292ef9b4ab4af800694e18c4aed84a refs/tags/v0.1
+804fe518e40d29561fc1d4d20b522db06a8dfa13 refs/tags/v0.2
+ae6527e9d6fb40cee821e47f5147a9d76aa29868 refs/tags/v0.2.1
+da5165d95c53156066cfece38c0666de2bfed4a0 refs/tags/v0.2.2
+9be5f01ca6b00a09fcaa5f6e46ca00a429539937 refs/tags/v0.2.3
